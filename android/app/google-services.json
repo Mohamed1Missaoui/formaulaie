@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386266783278",
+    "project_id": "formulaire-7aa55",
+    "storage_bucket": "formulaire-7aa55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386266783278:android:4c15d518b466e9778e49bf",
+        "android_client_info": {
+          "package_name": "com.example.formulaire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386266783278-vbm106u6p6up76pujsuv1i697rqopotk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOGlCaijWlbfQ4GZqoGbtjekfYNcWjm-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386266783278-vbm106u6p6up76pujsuv1i697rqopotk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
